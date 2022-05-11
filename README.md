@@ -1,4 +1,5 @@
 # Photovle-Core
+- Photovle Core는 OSVOS 모델을 포함한 AI 서비스 서버입니다.
 
 ## 사전 준비
 
