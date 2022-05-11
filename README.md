@@ -1,4 +1,4 @@
-# Photovle-core
+# Photovle-Core
 
 ## 사전 준비
 
