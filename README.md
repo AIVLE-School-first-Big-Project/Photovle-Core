@@ -1,11 +1,21 @@
 # Photovle-core
 
-
-## 가상환경 생성
+## 사전 준비
+```
+# 가상환경 생성
 1. python3 -m venv venv
 
-## 파이토치 설치
+# 파이토치 설치
 2. pip3 install torch==1.7.1+cu110 torchvision==0.8.2+cu110 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
 
-## 전체 패키지 설지
+# 전체 패키지 설지
 3. pip3 install -r requirements.txt
+```
+
+## 프로그램 실행 방법
+```
+git clone https://github.com/AIVLE-School-first-Big-Project/Photovle-core.git
+cd Photovle-core
+
+python3 -m photovleml
+```
