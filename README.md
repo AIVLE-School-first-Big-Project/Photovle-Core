@@ -1,6 +1,15 @@
 # Photovle-core
 
 ## 사전 준비
+
+### 소스코드 다운로드
+```
+git clone https://github.com/AIVLE-School-first-Big-Project/Photovle-core.git
+cd Photovle-core
+```
+
+
+### 초기 환경 설정
 ```
 # 가상환경 생성
 1. python3 -m venv venv
@@ -12,10 +21,7 @@
 3. pip3 install -r requirements.txt
 ```
 
-## 프로그램 실행 방법
+## 프로그램 실행
 ```
-git clone https://github.com/AIVLE-School-first-Big-Project/Photovle-core.git
-cd Photovle-core
-
 python3 -m photovleml
 ```
